@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516199047 source:d:\c++\test\main.cpp
+	<stdio.h>
+	"sample.h"
+
+1516198695 d:\c++\test\sample.h
+
